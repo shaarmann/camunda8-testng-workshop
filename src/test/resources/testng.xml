@@ -3,6 +3,7 @@
   <test name="Tests">
     <classes>
       <class name="com.camunda.consulting.NGPaymentProcessTest"></class>
+      <class name="com.camunda.consulting.NGOrderProcessTest"/>
     </classes>
   </test>
 </suite>
