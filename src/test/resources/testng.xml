@@ -2,6 +2,7 @@
 <suite name="ProcessTests" verbose="1">
   <test name="Tests">
     <classes>
+      <class name="com.camunda.consulting.NGPaymentProcessTest"></class>
     </classes>
   </test>
 </suite>
